@@ -1,0 +1,203 @@
+body{
+    background-image: url(./delicious-food.jpg);
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+
+}
+.box{
+    border: 8px solid red;
+    background-color: grey;
+    height: 150px;
+    width: 25%;
+    border-radius: 25px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 40px;
+    
+}
+.box1{
+    border: 8px solid red;
+    background-color: grey;
+    height: 100px;
+    width: 25%;
+    border-radius: 25px;
+    font-weight: 200;
+    font-size: 30px;
+    /* text-align: center;
+    vertical-align: middle; */
+    line-height: 90px; 
+
+    
+    
+}
+.box2{
+    border: 8px solid red;
+    background-color: grey;
+    height: 180px;
+    width: 25%;
+    border-radius: 25px;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    
+    
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+
+.circle{
+    border: 5px solid green;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: rgb(63, 90, 210);
+    font-weight: 50px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;  
+    margin-top: 200px;
+}
+.offer hr{
+    background-color: red;
+    border-width: 2;
+    color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.offer{
+    text-decoration: underline;
+    margin-top: 70px;
+    /* border-bottom: 2px solid white; */
+   font-weight: bolder;
+
+ 
+}
+.thali hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.thali{
+    text-decoration: underline;
+    margin-top: 60px;
+    line-height: 30px;
+    /* border-bottom: 2px solid white; */
+    font-weight: bolder;
+
+}
+.rate{
+    text-decoration: underline;
+    margin-top: 50px;
+    font-weight: bolder;
+
+}
+.form{
+    background-color: white;
+    height: 700px;
+    width: 30%;
+    border-radius: 10px;
+    border: 5px dotted red
+}
+.reg{
+    color: rgb(206, 131, 69);
+    height: 100px;
+    text-align: center;
+    line-height: 70px;
+    border-bottom: 2px solid rgb(206, 131, 69);
+    
+}
+.form1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(206, 131, 69);
+
+}
+.menu{
+    background-color: black;
+    height: 80px;
+    width: 600px;
+    margin: 0% 400px;
+    margin-top: 40px;
+    color: red;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 50px;
+    }
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+    
+}
+ul{
+    margin: 0px 70px;
+}
+.starter{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
+.south{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
+.north{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
+.item1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+.rice{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
+.bread{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
+.bev{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid salmon;
+}
